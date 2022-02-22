@@ -3,4 +3,5 @@ module CRUD2 {
 
 	requires java.desktop;
 	requires java.sql;
+	wqefqwef
 }

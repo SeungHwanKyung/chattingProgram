@@ -8,7 +8,7 @@ import javax.swing.*;
 
 
 public class paywallet extends JFrame implements ActionListener{
-   
+   qwefqwef
    JPanel title1, title2, title3;
    JPanel left, right, bottom;
    TextArea display;
